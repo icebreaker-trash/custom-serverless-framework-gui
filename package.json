@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "@serverless/platform-client": "^4.2.2",
-    "@serverless/platform-client-china": "^2.1.10"
+    "@serverless/platform-client-china": "^2.1.10",
+    "@serverless/utils": "^4.1.0",
+    "@serverless/utils-china": "^1.0.15"
   },
   "devDependencies": {
     "@serverless/components": "^3.9.0"
